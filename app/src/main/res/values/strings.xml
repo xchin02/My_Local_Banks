@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="website">Website</string>
+    <string name="contact">Contact the bank</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name ="DBS">https://www.dbs.com.sg</string>
+    <string name="DBSnum">1 + " " + 800 + "-" + 111 + "-" + 1111</string>
+    <string name="OCBC">https://www.ocbc.com</string>
+    <string name="OCBCnum">1 + " " + 800 + "-" + 363 + "-" + 3333</string>
+    <string name="UOB">https://www.uob.com.sg</string>
+    <string name="UOBnum">1 + " " + 800 + "-" + 222 + "-" + 2121</string>
+    <string name="DBSName">DBS</string>
+    <string name="OCBCName">OCBC</string>
+    <string name="UOBName">UOB</string>
+</resources>
